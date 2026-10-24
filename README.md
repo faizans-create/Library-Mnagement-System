@@ -1,2 +1,22 @@
-# Library-Mnagement-System
-A Library Management System built with Python, Streamlit, and SQLite to manage books, members, book issuing and returns, overdue books, and late-return fines through a simple, interactive web interface.
+# 📚 Library Management System
+
+A simple and interactive Library Management System developed using Python, Streamlit, and SQLite.
+
+### Features
+- 📊 Dashboard for library statistics
+- 📚 Add and search books
+- 👥 Register and manage members
+- 📖 Issue and return books
+- ⏰ Track overdue books
+- 💰 Calculate late-return fines
+- 📋 View transaction history
+- 💾 Store records in an SQLite database
+
+### Technologies Used
+- Python
+- Streamlit
+- SQLite
+- Pandas
+
+### Purpose
+This project demonstrates basic database management, Python programming, and web application development through a practical library management application.
